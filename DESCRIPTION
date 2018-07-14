@@ -1,7 +1,7 @@
 Package: cromwellDashboard
 Type: Package
 Title: A Dashboard to Visualize Scientific Workflows in Cromwell
-Version: 0.2.0
+Version: 0.3.0
 Author: Xiaowei Zhan
 Maintainer: Xiaowei Zhan <zhanxw@gmail.com>
 Description: A dashboard to visualize workflow timelings, engine status,
