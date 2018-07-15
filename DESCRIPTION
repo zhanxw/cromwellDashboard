@@ -1,11 +1,13 @@
 Package: cromwellDashboard
 Type: Package
 Title: A Dashboard to Visualize Scientific Workflows in Cromwell
-Version: 0.3.0
+Version: 0.4.0
 Author: Xiaowei Zhan
 Maintainer: Xiaowei Zhan <zhanxw@gmail.com>
-Description: A dashboard to visualize workflow timelings, engine status,
-    and a list of workflows managed in cromwell.
+Description: A dashboard supports the usage of cromwell. Cromwell is a scientific workflow engine for commandline users.
+ This package utilizes cromwell REST APIs and provides these convenient functions: timing diagrams for running 
+ workflows, cromwell engine status, a tabular workflow list. For more information
+ about cromwell, visit <http://cromwell.readthedocs.io>.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
